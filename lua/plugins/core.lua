@@ -2,6 +2,9 @@ return {
   -- Keybind documentation
   { 'folke/which-key.nvim', opts = {} },
 
+  -- Github Copilot
+  { 'github/copilot.vim' },
+
   -- Fuzzy Finder (files, lsp, etc)
   {
     'nvim-telescope/telescope.nvim',
